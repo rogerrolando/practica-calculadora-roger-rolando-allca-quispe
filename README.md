@@ -5,10 +5,9 @@ Calculadora web funcional desarrollada con HTML, CSS y JavaScript.
 
 ## Características
 - Operaciones básicas (suma, resta, multiplicación, división)
-- Diseño responsive y moderno
-- Soporte para teclado físico
+- Diseño responsive y moderno a mi estilo claro  :-)
+- Soporte para teclado físico -- esto me hice ayudar con la IA  ;-)
 - Manejo de errores
-- Botón de igual de doble altura
 
 ## Enlace de la aplicación
 https://rogerrolando.github.io/practica-calculadora-roger-rolando-allca-quispe
@@ -17,4 +16,3 @@ https://rogerrolando.github.io/practica-calculadora-roger-rolando-allca-quispe
 - HTML5
 - CSS3
 - JavaScript
-- GitHub Pages
